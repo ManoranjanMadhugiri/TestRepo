@@ -1,3 +1,5 @@
 Test file has been changed.
 
-This is another change.
+This is another change.  
+
+after merge 
