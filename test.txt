@@ -1,1 +1,3 @@
-Test file has been changed
+Test file has been changed.
+
+This is another change.
